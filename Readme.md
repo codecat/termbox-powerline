@@ -7,6 +7,9 @@ A simple module for rendering in the [Powerline](https://github.com/powerline/po
 </p>
 
 ## Usage
+Simply add [`src/powerline.cpp`](/src/powerline.cpp) and [`src/powerline.h`](/src/powerline.h) to
+your build and include the header file wherever you need to use it. Then just use the simple API.
+Here is an example:
 
 ```cpp
 // Begin the powerline at 0, 0
