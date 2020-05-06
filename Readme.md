@@ -1,7 +1,10 @@
 # Termbox Powerline
-A simple module for rendering in the [Powerline](https://github.com/powerline/powerline)-style.
+A simple module for rendering in the [Powerline](https://github.com/powerline/powerline)-style in
+[Termbox](https://github.com/tomas/termbox).
 
-![](/Screenshot.png)
+<p align="center">
+  <img src="https://github.com/codecat/termbox-powerline/blob/master/Screenshot.png?raw=true"/>
+</p>
 
 ## Usage
 
